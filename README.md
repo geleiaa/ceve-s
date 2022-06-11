@@ -15,3 +15,6 @@ CVEs de CTF
 4 - https://github.com/setrus/CVE-2019-0232
 
 5 - https://dirtycow.ninja/
+
+6 -  https://www.exploit-db.com/exploits/47138
+  - |_ https://github.com/AssassinUKG/fuleCMS
