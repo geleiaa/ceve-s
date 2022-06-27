@@ -18,3 +18,7 @@ CVEs de CTF
 
 6 -  https://www.exploit-db.com/exploits/47138
   - |_ https://github.com/AssassinUKG/fuleCMS
+  
+7 - https://sotharo-meas.medium.com/cve-2019-1388-windows-privilege-escalation-through-uac-22693fa23f5f
+  - |_ https://www.youtube.com/watch?v=0ULr7oh6TDI
+  
