@@ -22,3 +22,6 @@ CVEs de CTF
 7 - https://sotharo-meas.medium.com/cve-2019-1388-windows-privilege-escalation-through-uac-22693fa23f5f
   - |_ https://www.youtube.com/watch?v=0ULr7oh6TDI
   
+8 - https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi
+  - |_ https://github.com/veracode-research/rogue-jndi
+  -   |_ https://www.infosecmatter.com/nessus-plugin-library/?id=156441
