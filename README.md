@@ -25,3 +25,8 @@ CVEs de CTF
 8 - https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi
   - |_ https://github.com/veracode-research/rogue-jndi
   -   |_ https://www.infosecmatter.com/nessus-plugin-library/?id=156441
+
+9 - https://blog.sucuri.net/2017/05/sql-injection-vulnerability-joomla-3-7.html
+  - |_ https://github.com/XiphosResearch/exploits/tree/master/Joomblah
+  -   |_https://www.acunetix.com/vulnerabilities/web/joomla-core-3-7-0-sql-injection-3-7-0-3-7-0/
+        |_ https://hackertarget.com/attacking-enumerating-joomla/
