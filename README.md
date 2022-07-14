@@ -29,4 +29,4 @@ CVEs de CTF
 9 - https://blog.sucuri.net/2017/05/sql-injection-vulnerability-joomla-3-7.html
   - |_ https://github.com/XiphosResearch/exploits/tree/master/Joomblah
   -   |_https://www.acunetix.com/vulnerabilities/web/joomla-core-3-7-0-sql-injection-3-7-0-3-7-0/
-        |_ https://hackertarget.com/attacking-enumerating-joomla/
+  -     |_ https://hackertarget.com/attacking-enumerating-joomla/
