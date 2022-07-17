@@ -30,3 +30,7 @@ CVEs de CTF
   - |_ https://github.com/XiphosResearch/exploits/tree/master/Joomblah
   -   |_ https://www.acunetix.com/vulnerabilities/web/joomla-core-3-7-0-sql-injection-3-7-0-3-7-0/
   -     |_ https://hackertarget.com/attacking-enumerating-joomla/
+
+10 - https://github.com/itm4n/PrintSpoofer
+   - |_ https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/
+   
